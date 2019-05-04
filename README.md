@@ -3,7 +3,7 @@ This Machine Learning model helps in predicting the Heart diseases.
 
 Problem Description :
 
-A dataset is formed by taking into consideration some of the information of 920 individuals. The problem is : based on the given information about each individual we have to calculate that whether that individual will suffer from heart disease.
+A dataset is formed by taking into consideration some of the information of 304 individuals. The problem is : based on the given information about each individual we have to calculate that whether that individual will suffer from heart disease.
 
 
 Heart Disease Data Set
